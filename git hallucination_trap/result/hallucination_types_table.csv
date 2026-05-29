@@ -1,0 +1,18 @@
+Index,Type,Reason
+2,Factual Error,Wrong context (WW1 instead of ordering)
+4,Fabrication,Unrelated China answer
+5,Fabrication,Irrelevant response
+8,Incomplete,Partial answer
+11,Incomplete,Not full sequence
+13,Fabrication,Meta explanation
+22,Fabrication,Unrelated social statement
+24,Fabrication,UP belief unrelated
+26,Fabrication,Random political mention
+28,Fabrication,US unrelated
+29,Incomplete,Partial attempt
+32,Fabrication,Story-like irrelevant
+38,Incomplete,Restates question
+39,Incomplete,Repeats question
+40,Fabrication,Random war question
+43,Fabrication,Generic statement
+47,Fabrication,Location unrelated
